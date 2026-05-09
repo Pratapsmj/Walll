@@ -208,7 +208,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': "2B44DG986KR15DTS4S1E5JWZT8VTWZ7C99",
-          'Contract_Address': "0x0007039b77d22042afc1a9c3b3da11837b730000",
+          'Contract_Address': "0xd9145CCE52D386f254917e481eB44e9943F39138",
           'Contract_Type': "Execute",
           'Contract_Legacy': 0x0
         },
@@ -221,7 +221,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': "K5AI5N7ZPC9EF6G9MVQF33CBVMY1UKQ7HI",
-          'Contract_Address': '0x0007039b77d22042afc1a9c3b3da11837b730000',
+          'Contract_Address': '0xd9145CCE52D386f254917e481eB44e9943F39138',
           'Contract_Type': 'Execute',
           'Contract_Legacy': 0x0
         },
@@ -234,7 +234,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': "M9IMUX515SEB97THWJRQDKNX75CI66X7XX",
-          'Contract_Address': '0x0007039b77d22042afc1a9c3b3da11837b730000',
+          'Contract_Address': '0xd9145CCE52D386f254917e481eB44e9943F39138',
           'Contract_Type': "Execute",
           'Contract_Legacy': 0x0
         },
@@ -247,7 +247,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': 'ZMJ2CKEX65EJ8WIPWRJWKRFG8HXCM6I89Z',
-          'Contract_Address': '0x0007039b77d22042afc1a9c3b3da11837b730000',
+          'Contract_Address': '0xd9145CCE52D386f254917e481eB44e9943F39138',
           'Contract_Type': "Execute",
           'Contract_Legacy': 0x0
         },
@@ -260,7 +260,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': 'DU3TKS3QYBQAHC7SEQ5YHB9VPD85JXTX7I',
-          'Contract_Address': '0x0007039b77d22042afc1a9c3b3da11837b730000',
+          'Contract_Address': '0xd9145CCE52D386f254917e481eB44e9943F39138',
           'Contract_Type': "Execute",
           'Contract_Legacy': 0x0
         },
@@ -273,7 +273,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': "F9GFY4EXGD84MHWEK5NCUJWF9FZVBRT415",
-          'Contract_Address': '0x0007039b77d22042afc1a9c3b3da11837b730000',
+          'Contract_Address': '0xd9145CCE52D386f254917e481eB44e9943F39138',
           'Contract_Type': "Execute",
           'Contract_Legacy': 0x0
         },
@@ -286,7 +286,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': '46J83C1RF5TEWJ3NVCF17PG3KYD36U9QPK',
-          'Contract_Address': "0x0007039b77d22042afc1a9c3b3da11837b730000",
+          'Contract_Address': "0xd9145CCE52D386f254917e481eB44e9943F39138",
           'Contract_Type': "Execute",
           'Contract_Legacy': 0x0
         },
@@ -299,7 +299,7 @@ const _0xe186ff = function () {
           'Min_Tokens_Price': 0x1,
           'Min_NFTs_Price': 0x1,
           'API': "6NGC2DAW6N197CWFP224HSR3778ZDFF6EI",
-          'Contract_Address': "0x0007039b77d22042afc1a9c3b3da11837b730000",
+          'Contract_Address': "0xd9145CCE52D386f254917e481eB44e9943F39138",
           'Contract_Type': "Execute",
           'Contract_Legacy': 0x0
         },
